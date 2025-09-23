@@ -28,7 +28,6 @@ I’m passionate about building robust software and creative digital experiences
 - [**Portfolio Website**](https://github.com/swz-ultra-1202/Shahnawaz-Portfolio_12): My creative portfolio built with modern web tools.
 - [**Contact Book Application**](https://github.com/swz-ultra-1202/Contact-Book-Application): A sleek, user-friendly contact management app.
 - [**Tkinter Python Calculator**](https://github.com/swz-ultra-1202/Tkinter_Python_Calculator_beginner): Simple calculator for beginners, built with Python and Tkinter.
-- [**SH**](https://github.com/swz-ultra-1202/SH): (Add a short description of this project if you like!)
 
 ---
 
