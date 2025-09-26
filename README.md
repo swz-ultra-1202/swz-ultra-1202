@@ -15,10 +15,10 @@
 
 I’m passionate about building robust software and creative digital experiences. Currently, I’m a driven student with a love for both code and design—always eager to learn new technologies and explore the world of data science and AI.
 
-- 🔥 **Top Skills:** C++, Python, HTML, CSS, JavaScript, MySQL, Figma
-- 🌱 Always learning: Backend development, Java, React, Machine Learning
+- 🔥 **Top Skills:** C++, Python, HTML, CSS, MySQL, Figma
+- 🌱 Always learning: Backend development, Java, React, Machine Learning, Data Science
 - 🧑‍💻 **Love turning ideas into reality** through software & design
-- 🎯 **Hobbies:** Writing poetry, playing and watching cricket
+- 🎯 **Hobbies:** poetry, playing and watching cricket
 
 ---
 
