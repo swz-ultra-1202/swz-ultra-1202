@@ -7,7 +7,7 @@
 📝 **Skills:** Requirement Engineering | Software Design  
 🎨 **UI/UX:** Figma  
 📊 **Aspiring Data Scientist & Machine Learning Enthusiast**  
-✍️ **Poetry Buff | 🏏 Cricket Lover**
+
 
 ---
 
@@ -18,7 +18,7 @@ I’m passionate about building robust software and creative digital experiences
 - 🔥 **Top Skills:** C++, Python, HTML, CSS, MySQL, Figma
 - 🌱 Always learning: Backend development, Java, React, Machine Learning, Data Science
 - 🧑‍💻 **Love turning ideas into reality** through software & design
-- 🎯 **Hobbies:** poetry, playing and watching cricket
+
 
 ---
 
