@@ -12,8 +12,8 @@
 I’m a **Software Engineering student** passionate about **building software** and **designing digital experiences**.
 I love coding, UI/UX design, and exploring **AI & Machine Learning**.
 
-* 🔹 **Top Skills:** C++, Python, HTML, CSS, JavaScript, MySQL, Figma
-* 🔹 **Currently Learning:** Backend Development, Java, React, Machine Learning, Data Science
+* 🔹 **Top Skills:** C++,,C, Python, HTML, CSS, Java, MySQL, Figma
+* 🔹 **Currently Learning:** Machine Learning, Data Science
 * 🔹 **Love:** Turning ideas into **interactive dashboards & creative projects**
 
 
