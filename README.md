@@ -26,16 +26,12 @@ I love coding, UI/UX design, and exploring **AI & Machine Learning**.
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 </p>
 
 <p align="center">
 <!-- Databases & Tools -->
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </p>
 
@@ -56,7 +52,7 @@ I love coding, UI/UX design, and exploring **AI & Machine Learning**.
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-HTML/CSS/JS-orange?style=for-the-badge" />
 </a>
 <a href="https://github.com/swz-ultra-1202/Contact-Book-Application" target="_blank">
-  <img alt="Contact Book" src="https://img.shields.io/badge/Contact%20Book-Python-blue?style=for-the-badge" />
+  <img alt="Contact Book" src="https://img.shields.io/badge/Contact%20Book-C++-blue?style=for-the-badge" />
 </a>
 <a href="https://github.com/swz-ultra-1202/Tkinter_Python_Calculator_beginner" target="_blank">
   <img alt="Calculator" src="https://img.shields.io/badge/Calculator-Tkinter-green?style=for-the-badge" />
