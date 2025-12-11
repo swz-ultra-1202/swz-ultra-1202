@@ -48,37 +48,52 @@ I enjoy coding, UI/UX design, and exploring **AI & Machine Learning**.
 
 ## 🔥 Featured Projects
 
+
+
 <p align="center">
 
+<!-- Portfolio -->
 <a href="https://github.com/swz-ultra-1202/Shahnawaz-Portfolio_12" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-HTML/CSS-ff9800?style=for-the-badge" />
 </a>
 
+<!-- Mini Instagram -->
 <a href="https://github.com/swz-ultra-1202/Mini-Instagram" target="_blank">
   <img alt="Mini Instagram" src="https://img.shields.io/badge/Mini%20Instagram-C++-blue?style=for-the-badge" />
 </a>
 
+<!-- Mini OS -->
 <a href="https://github.com/swz-ultra-1202/Mini-OS" target="_blank">
   <img alt="Mini OS" src="https://img.shields.io/badge/Mini%20OS-C++-informational?style=for-the-badge" />
 </a>
 
+<!-- AI Prediction Dashboard -->
 <a href="https://github.com/swz-ultra-1202/-AI-Data-Analysis-Prediction-Dashboard" target="_blank">
-  <img alt="AI Data Dashboard" src="https://img.shields.io/badge/AI%20Prediction%20Dashboard-Python/ML-blueviolet?style=for-the-badge" />
+  <img alt="AI Dashboard" src="https://img.shields.io/badge/AI%20Prediction%20Dashboard-Python/ML-blueviolet?style=for-the-badge" />
 </a>
 
+<!-- Jarvis (Python Assistant) -->
+<a href="https://github.com/swz-ultra-1202/Jarvis" target="_blank">
+  <img alt="Jarvis" src="https://img.shields.io/badge/Jarvis-Python-0A9EDC?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+<!-- Tkinter Calculator -->
 <a href="https://github.com/swz-ultra-1202/Tkinter_Python_Calculator_beginner" target="_blank">
   <img alt="Calculator" src="https://img.shields.io/badge/Tkinter%20Calculator-Python-brightgreen?style=for-the-badge" />
 </a>
 
+<!-- Snake Game -->
 <a href="https://github.com/swz-ultra-1202/Snake_Game" target="_blank">
   <img alt="Snake Game" src="https://img.shields.io/badge/Snake%20Game-Python-success?style=for-the-badge" />
 </a>
 
+<!-- TestOps Automation -->
 <a href="https://github.com/swz-ultra-1202/TestOps-andAutomation-Framework" target="_blank">
   <img alt="TestOps Automation" src="https://img.shields.io/badge/TestOps%20Automation-Java-red?style=for-the-badge" />
 </a>
 
 </p>
+
 
 
 ## 📫 Connect with Me
